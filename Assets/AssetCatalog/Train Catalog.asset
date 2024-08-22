@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7beafef83c4a42d693c5e85663a73864, type: 3}
+  m_Name: Train Catalog
+  m_EditorClassIdentifier: 
+  trainCatalog:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 399811866532181199, guid: f5a552eef2f629446b468af5af2f28f9,
+        type: 3}
+    - Key: 2
+      Value: {fileID: 399811866532181199, guid: 8a08f19487a9f2b4faf220c18facef61,
+        type: 3}
+    - Key: 3
+      Value: {fileID: 399811866532181199, guid: 1b5036757c3e0ba42a6eafdbb428fd82,
+        type: 3}
+    - Key: 4
+      Value: {fileID: 399811866532181199, guid: 1d71c34acece7654bb2bc29e2a0f11db,
+        type: 3}
+    - Key: 5
+      Value: {fileID: 399811866532181199, guid: c6a70a464e3b9ff458f8cf212ac25dc3,
+        type: 3}
+    - Key: 6
+      Value: {fileID: 399811866532181199, guid: 699cc1148572aba4ea4dd755fb0b622e,
+        type: 3}
+    - Key: 7
+      Value: {fileID: 399811866532181199, guid: 56a9e052ae65ae34f9e34d2fa7b4990d,
+        type: 3}
+    - Key: 8
+      Value: {fileID: 399811866532181199, guid: 004525e8ac951af459ff498978c9f9e0,
+        type: 3}
+    - Key: 9
+      Value: {fileID: 399811866532181199, guid: 030697a99c6c0c242947712580d29948,
+        type: 3}
+    - Key: 10
+      Value: {fileID: 399811866532181199, guid: ba0b1ef481762624490026a76f8555bc,
+        type: 3}

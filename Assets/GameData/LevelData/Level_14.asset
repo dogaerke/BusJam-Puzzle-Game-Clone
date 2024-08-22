@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf442d105b1a46a5bbca6a9864c4ff9f, type: 3}
+  m_Name: Level_14
+  m_EditorClassIdentifier: 
+  busColorList: 010000000800000007000000020000000a00000007000000010000000a000000
+  charactersColorMap:
+  - x: 0
+    y: 0
+    vectorPos: {x: -0.5, y: 0, z: 0.5}
+    hasObstacle: 0
+    gameColors: 1
+    isSecret: 1
+  - x: 0
+    y: 1
+    vectorPos: {x: -0.5, y: 0, z: 1.5}
+    hasObstacle: 0
+    gameColors: 1
+    isSecret: 0
+  - x: 0
+    y: 2
+    vectorPos: {x: -0.5, y: 0, z: 2.5}
+    hasObstacle: 0
+    gameColors: 2
+    isSecret: 0
+  - x: 0
+    y: 3
+    vectorPos: {x: -0.5, y: 0, z: 3.5}
+    hasObstacle: 0
+    gameColors: 7
+    isSecret: 1
+  - x: 0
+    y: 4
+    vectorPos: {x: -0.5, y: 0, z: 4.5}
+    hasObstacle: 0
+    gameColors: 2
+    isSecret: 0
+  - x: 1
+    y: 0
+    vectorPos: {x: 0.5, y: 0, z: 0.5}
+    hasObstacle: 0
+    gameColors: 7
+    isSecret: 0
+  - x: 1
+    y: 1
+    vectorPos: {x: 0.5, y: 0, z: 1.5}
+    hasObstacle: 0
+    gameColors: 8
+    isSecret: 1
+  - x: 1
+    y: 2
+    vectorPos: {x: 0.5, y: 0, z: 2.5}
+    hasObstacle: 0
+    gameColors: 7
+    isSecret: 0
+  - x: 1
+    y: 3
+    vectorPos: {x: 0.5, y: 0, z: 3.5}
+    hasObstacle: 0
+    gameColors: 1
+    isSecret: 0
+  - x: 1
+    y: 4
+    vectorPos: {x: 0.5, y: 0, z: 4.5}
+    hasObstacle: 0
+    gameColors: 8
+    isSecret: 0
+  - x: 2
+    y: 0
+    vectorPos: {x: 1.5, y: 0, z: 0.5}
+    hasObstacle: 0
+    gameColors: 0
+    isSecret: 0
+  - x: 2
+    y: 1
+    vectorPos: {x: 1.5, y: 0, z: 1.5}
+    hasObstacle: 0
+    gameColors: 10
+    isSecret: 0
+  - x: 2
+    y: 2
+    vectorPos: {x: 1.5, y: 0, z: 2.5}
+    hasObstacle: 0
+    gameColors: 10
+    isSecret: 1
+  - x: 2
+    y: 3
+    vectorPos: {x: 1.5, y: 0, z: 3.5}
+    hasObstacle: 0
+    gameColors: 10
+    isSecret: 1
+  - x: 2
+    y: 4
+    vectorPos: {x: 1.5, y: 0, z: 4.5}
+    hasObstacle: 0
+    gameColors: 2
+    isSecret: 0
+  - x: 3
+    y: 0
+    vectorPos: {x: 2.5, y: 0, z: 0.5}
+    hasObstacle: 0
+    gameColors: 10
+    isSecret: 0
+  - x: 3
+    y: 1
+    vectorPos: {x: 2.5, y: 0, z: 1.5}
+    hasObstacle: 0
+    gameColors: 1
+    isSecret: 0
+  - x: 3
+    y: 2
+    vectorPos: {x: 2.5, y: 0, z: 2.5}
+    hasObstacle: 0
+    gameColors: 1
+    isSecret: 0
+  - x: 3
+    y: 3
+    vectorPos: {x: 2.5, y: 0, z: 3.5}
+    hasObstacle: 0
+    gameColors: 7
+    isSecret: 0
+  - x: 3
+    y: 4
+    vectorPos: {x: 2.5, y: 0, z: 4.5}
+    hasObstacle: 0
+    gameColors: 1
+    isSecret: 0
+  - x: 4
+    y: 0
+    vectorPos: {x: 3.5, y: 0, z: 0.5}
+    hasObstacle: 0
+    gameColors: 10
+    isSecret: 0
+  - x: 4
+    y: 1
+    vectorPos: {x: 3.5, y: 0, z: 1.5}
+    hasObstacle: 0
+    gameColors: 10
+    isSecret: 1
+  - x: 4
+    y: 2
+    vectorPos: {x: 3.5, y: 0, z: 2.5}
+    hasObstacle: 0
+    gameColors: 7
+    isSecret: 0
+  - x: 4
+    y: 3
+    vectorPos: {x: 3.5, y: 0, z: 3.5}
+    hasObstacle: 0
+    gameColors: 7
+    isSecret: 0
+  - x: 4
+    y: 4
+    vectorPos: {x: 3.5, y: 0, z: 4.5}
+    hasObstacle: 0
+    gameColors: 8
+    isSecret: 0
+  width: 5
+  height: 5

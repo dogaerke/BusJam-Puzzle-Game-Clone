@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a81bccb1b94c4b959fb2fe993c216af9, type: 3}
+  m_Name: Ship Catalog
+  m_EditorClassIdentifier: 
+  shipCatalog:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 1082610282096032664, guid: a13dca37b674fcb4290acffc35932cf8,
+        type: 3}
+    - Key: 2
+      Value: {fileID: 1082610282096032664, guid: afd9e6fe9d5df164fa4de7ed83ee9b91,
+        type: 3}
+    - Key: 3
+      Value: {fileID: 1082610282096032664, guid: 91f83a0a815c0d34e9f2e72ead7f4a21,
+        type: 3}
+    - Key: 4
+      Value: {fileID: 1082610282096032664, guid: c85d580d6b5075a4db3af474266911a9,
+        type: 3}
+    - Key: 5
+      Value: {fileID: 1082610282096032664, guid: 9edb6d212b4fc1a4ab41850b257da57c,
+        type: 3}
+    - Key: 6
+      Value: {fileID: 1082610282096032664, guid: 9aa0aba23315ea344b83e0106e422948,
+        type: 3}
+    - Key: 7
+      Value: {fileID: 1082610282096032664, guid: 2825b06167cbcfc4c9f002d9a38bf6cb,
+        type: 3}
+    - Key: 8
+      Value: {fileID: 1082610282096032664, guid: 815bce8cbf98f4e45994aed7683e7230,
+        type: 3}
+    - Key: 9
+      Value: {fileID: 1082610282096032664, guid: 4b46ab11a71f9f440a18ffb7fe722227,
+        type: 3}
+    - Key: 10
+      Value: {fileID: 1082610282096032664, guid: 7b3ced7676f0bda459991816ee14f69c,
+        type: 3}

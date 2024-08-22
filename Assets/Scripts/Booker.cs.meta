@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9565713e2fba4d8d8b8f01b6b03559af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bookerAnim: {instanceID: 0}
+  - meshCollider: {instanceID: 0}
+  - rendererBooker: {instanceID: 0}
+  - reservationHat: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

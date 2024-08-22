@@ -1,0 +1,523 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf442d105b1a46a5bbca6a9864c4ff9f, type: 3}
+  m_Name: Level_23
+  m_EditorClassIdentifier: 
+  busColorList: 07000000040000000100000005000000080000000500000008000000010000000400000007000000
+  vehicleReservationList: 00000000000000000000
+  charactersColorMap:
+  - x: 0
+    y: 0
+    vectorPos: {x: -0.5, y: 0, z: 0.5}
+    hasObstacle: 0
+    gameColors: 4
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 0
+    y: 1
+    vectorPos: {x: -0.5, y: 0, z: 1.5}
+    hasObstacle: 0
+    gameColors: 7
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 0
+    y: 2
+    vectorPos: {x: -0.5, y: 0, z: 2.5}
+    hasObstacle: 0
+    gameColors: 5
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 0
+    y: 3
+    vectorPos: {x: -0.5, y: 0, z: 3.5}
+    hasObstacle: 0
+    gameColors: 4
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 0
+    y: 4
+    vectorPos: {x: -0.5, y: 0, z: 4.5}
+    hasObstacle: 0
+    gameColors: 4
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 0
+    y: 5
+    vectorPos: {x: -0.5, y: 0, z: 5.5}
+    hasObstacle: 0
+    gameColors: 5
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 0
+    y: 6
+    vectorPos: {x: -0.5, y: 0, z: 6.5}
+    hasObstacle: 0
+    gameColors: 0
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 1
+    y: 0
+    vectorPos: {x: 0.5, y: 0, z: 0.5}
+    hasObstacle: 0
+    gameColors: 5
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 1
+    y: 1
+    vectorPos: {x: 0.5, y: 0, z: 1.5}
+    hasObstacle: 0
+    gameColors: 8
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 1
+    y: 2
+    vectorPos: {x: 0.5, y: 0, z: 2.5}
+    hasObstacle: 0
+    gameColors: 8
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 1
+    y: 3
+    vectorPos: {x: 0.5, y: 0, z: 3.5}
+    hasObstacle: 0
+    gameColors: 1
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 1
+    y: 4
+    vectorPos: {x: 0.5, y: 0, z: 4.5}
+    hasObstacle: 0
+    gameColors: 5
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 1
+    y: 5
+    vectorPos: {x: 0.5, y: 0, z: 5.5}
+    hasObstacle: 0
+    gameColors: 7
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 1
+    y: 6
+    vectorPos: {x: 0.5, y: 0, z: 6.5}
+    hasObstacle: 0
+    gameColors: 0
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 2
+    y: 0
+    vectorPos: {x: 1.5, y: 0, z: 0.5}
+    hasObstacle: 0
+    gameColors: 8
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 2
+    y: 1
+    vectorPos: {x: 1.5, y: 0, z: 1.5}
+    hasObstacle: 0
+    gameColors: 7
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 2
+    y: 2
+    vectorPos: {x: 1.5, y: 0, z: 2.5}
+    hasObstacle: 0
+    gameColors: 0
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 2
+    y: 3
+    vectorPos: {x: 1.5, y: 0, z: 3.5}
+    hasObstacle: 0
+    gameColors: 0
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 2
+    y: 4
+    vectorPos: {x: 1.5, y: 0, z: 4.5}
+    hasObstacle: 0
+    gameColors: 4
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 2
+    y: 5
+    vectorPos: {x: 1.5, y: 0, z: 5.5}
+    hasObstacle: 0
+    gameColors: 0
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 2
+    y: 6
+    vectorPos: {x: 1.5, y: 0, z: 6.5}
+    hasObstacle: 0
+    gameColors: 0
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 3
+    y: 0
+    vectorPos: {x: 2.5, y: 0, z: 0.5}
+    hasObstacle: 0
+    gameColors: 7
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 3
+    y: 1
+    vectorPos: {x: 2.5, y: 0, z: 1.5}
+    hasObstacle: 0
+    gameColors: 5
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 3
+    y: 2
+    vectorPos: {x: 2.5, y: 0, z: 2.5}
+    hasObstacle: 0
+    gameColors: 0
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 3
+    y: 3
+    vectorPos: {x: 2.5, y: 0, z: 3.5}
+    hasObstacle: 0
+    gameColors: 0
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 3
+    y: 4
+    vectorPos: {x: 2.5, y: 0, z: 4.5}
+    hasObstacle: 0
+    gameColors: 7
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 3
+    y: 5
+    vectorPos: {x: 2.5, y: 0, z: 5.5}
+    hasObstacle: 0
+    gameColors: 0
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 3
+    y: 6
+    vectorPos: {x: 2.5, y: 0, z: 6.5}
+    hasObstacle: 0
+    gameColors: 0
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 4
+    y: 0
+    vectorPos: {x: 3.5, y: 0, z: 0.5}
+    hasObstacle: 0
+    gameColors: 1
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 4
+    y: 1
+    vectorPos: {x: 3.5, y: 0, z: 1.5}
+    hasObstacle: 0
+    gameColors: 4
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 4
+    y: 2
+    vectorPos: {x: 3.5, y: 0, z: 2.5}
+    hasObstacle: 0
+    gameColors: 8
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 4
+    y: 3
+    vectorPos: {x: 3.5, y: 0, z: 3.5}
+    hasObstacle: 0
+    gameColors: 1
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 4
+    y: 4
+    vectorPos: {x: 3.5, y: 0, z: 4.5}
+    hasObstacle: 0
+    gameColors: 8
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 4
+    y: 5
+    vectorPos: {x: 3.5, y: 0, z: 5.5}
+    hasObstacle: 0
+    gameColors: 1
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 4
+    y: 6
+    vectorPos: {x: 3.5, y: 0, z: 6.5}
+    hasObstacle: 0
+    gameColors: 0
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 5
+    y: 0
+    vectorPos: {x: 4.5, y: 0, z: 0.5}
+    hasObstacle: 0
+    gameColors: 1
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 5
+    y: 1
+    vectorPos: {x: 4.5, y: 0, z: 1.5}
+    hasObstacle: 0
+    gameColors: 8
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 5
+    y: 2
+    vectorPos: {x: 4.5, y: 0, z: 2.5}
+    hasObstacle: 0
+    gameColors: 5
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 5
+    y: 3
+    vectorPos: {x: 4.5, y: 0, z: 3.5}
+    hasObstacle: 0
+    gameColors: 1
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 5
+    y: 4
+    vectorPos: {x: 4.5, y: 0, z: 4.5}
+    hasObstacle: 0
+    gameColors: 4
+    isReserved: 0
+    isSecret: 1
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 5
+    y: 5
+    vectorPos: {x: 4.5, y: 0, z: 5.5}
+    hasObstacle: 0
+    gameColors: 7
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  - x: 5
+    y: 6
+    vectorPos: {x: 4.5, y: 0, z: 6.5}
+    hasObstacle: 0
+    gameColors: 0
+    isReserved: 0
+    isSecret: 0
+    isSubway: 0
+    subwayDirection: 0
+    subwayStation: {fileID: 0}
+    bookersInSubway: 
+    reservedSubwayBookers: 
+  width: 6
+  height: 7

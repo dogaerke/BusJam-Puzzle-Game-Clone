@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0787ced885882a48b93bfde43cc880f, type: 3}
+  m_Name: Booker Catalog
+  m_EditorClassIdentifier: 
+  bookerCatalog:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 6615616145099745036, guid: 0ae569f43b2d8344b9be1c6d746e12a0,
+        type: 3}
+    - Key: 2
+      Value: {fileID: 6615616145099745036, guid: dc2b8df6e56fb844dab34adfb6be9ae2,
+        type: 3}
+    - Key: 3
+      Value: {fileID: 6615616145099745036, guid: 17b22b6cf5272d04094025c74333fa88,
+        type: 3}
+    - Key: 4
+      Value: {fileID: 6615616145099745036, guid: 1cdc94b8ac44da84db485112b2024437,
+        type: 3}
+    - Key: 5
+      Value: {fileID: 6615616145099745036, guid: 9461636fc3c178b41a1dd7d14843d1d1,
+        type: 3}
+    - Key: 6
+      Value: {fileID: 6615616145099745036, guid: 0c10e43274bc86f4484a7a79d17767a6,
+        type: 3}
+    - Key: 7
+      Value: {fileID: 6615616145099745036, guid: a4d50f1a0c3d7df4e8e8370ee24c7e5d,
+        type: 3}
+    - Key: 8
+      Value: {fileID: 6615616145099745036, guid: f89df0f8b3d726a4ca61089fa7c9b408,
+        type: 3}
+    - Key: 9
+      Value: {fileID: 6615616145099745036, guid: 36597d16c7cae3e46aedde30bbd47fb6,
+        type: 3}
+    - Key: 10
+      Value: {fileID: 6615616145099745036, guid: c8afd82300a9a9841acbc9e4adce25d9,
+        type: 3}

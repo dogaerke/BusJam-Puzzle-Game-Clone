@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2505d8c459094b2c95f44f5e409b5d08, type: 3}
+  m_Name: Material Catalog
+  m_EditorClassIdentifier: 
+  circle: {fileID: 2100000, guid: 50a9a45dc425ccf4e8ac46e0b3d7ba48, type: 2}
+  halfCircle: {fileID: 2100000, guid: be5efa9843e56384887dd595f7922028, type: 2}
+  halfCircle90: {fileID: 2100000, guid: 0578dd5bde895824eb4b17eb15ce07ac, type: 2}
+  halfCircle180: {fileID: 2100000, guid: 7122e7d782a11d6468ed3f13658de552, type: 2}
+  halfCircle270: {fileID: 2100000, guid: 10eefd4ff1591df4d8949f70ad2097d6, type: 2}
+  square: {fileID: 2100000, guid: 439ed1cb9a93d7646b2771ae3432fdcc, type: 2}
+  square90: {fileID: 2100000, guid: 11a8e680df703624b9d076af2564fab7, type: 2}
+  fullSquare: {fileID: 2100000, guid: e9f5c68d309961849af0c882d8773020, type: 2}
+  threeEnd: {fileID: 2100000, guid: ed4f25ba90746de419f2bfe7877be63d, type: 2}
+  threeEnd90: {fileID: 2100000, guid: 75f279754e8937b468681687f604f1e4, type: 2}
+  threeEnd180: {fileID: 2100000, guid: fe296ab64ea1a5c458a3d4a28a1372b8, type: 2}
+  threeEnd270: {fileID: 2100000, guid: 9bc0a49c127975e4b9849d41d8e9a806, type: 2}
+  curved: {fileID: 2100000, guid: c7ad53376f9938545b1a5dffce07dc39, type: 2}
+  curved90: {fileID: 2100000, guid: ff3c20cc47034d04c9925e2a04f298b3, type: 2}
+  curved180: {fileID: 2100000, guid: cef69570a50ddfb4cad511effd11fa7a, type: 2}
+  curved270: {fileID: 2100000, guid: d72dbf69e9d8ff346960df5edd6a9a69, type: 2}

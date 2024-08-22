@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acf019b67509408cb1973a8720045c10, type: 3}
+  m_Name: Plane Catalog
+  m_EditorClassIdentifier: 
+  planeCatalog:
+    _serializedList:
+    - Key: 1
+      Value: {fileID: 296006720972958684, guid: a941e66a7522a1e46ad09cc3bf9acb32,
+        type: 3}
+    - Key: 2
+      Value: {fileID: 296006720972958684, guid: cf54adc32fdf54d47abf95aa5f16d0a3,
+        type: 3}
+    - Key: 3
+      Value: {fileID: 296006720972958684, guid: 9b7622eed0e9bef41a03894b41d07029,
+        type: 3}
+    - Key: 4
+      Value: {fileID: 296006720972958684, guid: 313c95fa124a1cc4da028da074c6189b,
+        type: 3}
+    - Key: 5
+      Value: {fileID: 296006720972958684, guid: 66f7e1e89fec4ad458a5b34840085576,
+        type: 3}
+    - Key: 6
+      Value: {fileID: 296006720972958684, guid: 720d0697c5989ed4e86e10f41ba73820,
+        type: 3}
+    - Key: 7
+      Value: {fileID: 296006720972958684, guid: b294256ca6bb7be4eb526e4ca87e4707,
+        type: 3}
+    - Key: 8
+      Value: {fileID: 296006720972958684, guid: 60b78636acf683642952d2a6feca0dc6,
+        type: 3}
+    - Key: 9
+      Value: {fileID: 296006720972958684, guid: bbc97969c390f644989ce4047a25bfbd,
+        type: 3}
+    - Key: 10
+      Value: {fileID: 296006720972958684, guid: 34bee3c36aef6654eb2755d3f07e502f,
+        type: 3}
