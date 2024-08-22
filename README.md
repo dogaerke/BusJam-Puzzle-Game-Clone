@@ -1,1 +1,0 @@
-# S02-NapJam-Puzzle
